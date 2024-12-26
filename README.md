@@ -8,7 +8,7 @@ This project demonstrates how to create a simple Flutter app that displays:
 
 ## Features
 - AppBar: Displays the title "My First Project".
-- ImageRowWidget: Shows two images (local and network) in a row with spacing.
+- ImageRow: Shows two images (local and network) in a row with spacing.
 - TextWidget: Displays a customized text with specific font, size, color, and weight.
 
 ## Commands Used
